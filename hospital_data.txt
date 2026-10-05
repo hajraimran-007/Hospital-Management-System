@@ -1,0 +1,92 @@
+
+===== Patient Registered =====
+Patient ID: P001
+Patient Name: hajra imran
+Patient Age: 22
+Patient Gender: Female
+Patient Disease: Skin Disease
+=============================
+
+===== Appointment Booked =====
+Patient Name: hajra imran
+Patient Disease: Skin Disease
+Doctor Name: Dr. Sara Ali
+Doctor Specialization: Dermatologist
+Appointment Day: Thursday
+Appointment Time: 07:00 PM - 09:00 PM
+==============================
+
+===== Patient Registered =====
+Patient ID: P002
+Patient Name: abdullah ahmed
+Patient Age: 32
+Patient Gender: Male
+Patient Disease: Skin Disease
+=============================
+
+===== Appointment Booked =====
+Patient Name: abdullah ahmed
+Patient Disease: Skin Disease
+Doctor Name: Dr. Sara Ali
+Doctor Specialization: Dermatologist
+Appointment Day: Saturday
+Appointment Time: 01:00 PM - 03:00 PM
+==============================
+
+===== Patient Registered =====
+Patient ID: P001
+Patient Name: hajra
+Patient Age: 22
+Patient Gender: Female
+Patient Disease: Heart Disease
+=============================
+
+===== Appointment Booked =====
+Patient Name: hajra
+Patient Disease: Heart Disease
+Doctor Name: Dr. Ahmed Khan
+Doctor Specialization: Cardiologist
+Appointment Day: Wednesday
+Appointment Time: 04:00 PM - 07:00 PM
+==============================
+
+===== Patient Registered =====
+Patient ID: P002
+Patient Name: hamza
+Patient Age: 32
+Patient Gender: Male
+Patient Disease: Heart Disease
+=============================
+
+===== Appointment Booked =====
+Patient Name: hamza
+Patient Disease: Heart Disease
+Doctor Name: Dr. Ahmed Khan
+Doctor Specialization: Cardiologist
+Appointment Day: Wednesday
+Appointment Time: 09:00 AM - 12:00 PM
+==============================
+
+===== Patient Registered =====
+Patient ID: P001
+Patient Name: hajra imran
+Patient Age: 22
+Patient Gender: Female
+Patient Disease: Skin Disease
+=============================
+
+===== Patient Registered =====
+Patient ID: P002
+Patient Name: hamza ali
+Patient Age: 32
+Patient Gender: Male
+Patient Disease: Heart Disease
+=============================
+
+===== Patient Registered =====
+Patient ID: P003
+Patient Name: humna
+Patient Age: 32
+Patient Gender: Male
+Patient Disease: Bone Disease
+=============================

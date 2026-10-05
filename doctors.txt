@@ -1,0 +1,5 @@
+dr.hamza|Ophthalmologist|Monday|1
+dr.hamza|Dermatologist|Monday|01:00 PM - 04:00 PM
+dr ahmed|Cardiologist|Wednesday|07:00 PM - 10:00 PM
+dr balail|Cardiologist|Friday|07:00 PM - 10:00 PM
+dr arsalan|Pediatrician|Monday|07:00 PM - 10:00 PM

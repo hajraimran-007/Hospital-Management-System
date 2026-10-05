@@ -1,0 +1,4 @@
+P001|hajra|22|Female|Eye Disease
+P002|hamza|23|Male|Skin Disease
+P003|maira|32|Female|Stomach Disease
+P004|humna|22|Female|General Disease
